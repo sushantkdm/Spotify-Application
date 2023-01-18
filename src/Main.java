@@ -5,7 +5,7 @@ public class Main {
     public static List<Album> albums = new ArrayList<>();
     public static void main(String[] args) {
 
-        Album album1 = new Album("Moosa","Sidhu Moosewala");
+        Album album1 = new Album("Moosaa","Sidhu Moosewala");
         album1.addSongtoAlbum("295",4.05);
         album1.addSongtoAlbum("LastRide",5.5);
         album1.addSongtoAlbum("So High",3.05);
